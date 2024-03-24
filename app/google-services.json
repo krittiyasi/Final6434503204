@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "833056138627",
+    "project_id": "final643450320-4",
+    "storage_bucket": "final643450320-4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833056138627:android:beb485d292f671efd902b6",
+        "android_client_info": {
+          "package_name": "th.ac.kku.cis.final643450320_4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmGvfoGsqA8sHzxL90_7yBeFo_wbr3MNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
